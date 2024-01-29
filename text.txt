@@ -1,0 +1,2 @@
+create react file = npx create-react-app basic
+npm create vite@latesf
